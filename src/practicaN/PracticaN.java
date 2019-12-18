@@ -69,6 +69,7 @@ public class PracticaN extends javax.swing.JFrame {
         
         lblMensaje2.setText("Hola...");
         lblMensaje1.setText("Hola como te va.........?");
+        lblMensaje2.setText("Estoy bien....");
 
         // TODO add your handling code here:
     }//GEN-LAST:event_btnActivarActionPerformed
